@@ -1,2 +1,1 @@
 # FCNNyu
-yu
